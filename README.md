@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://sherchanstrikes.github.io/portfolio/](https://sherchanstrikes.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://saphalsherchan.com.np](https://saphalsherchan.com.np)
 
 - 💬 Ask me about **Next js**
 
