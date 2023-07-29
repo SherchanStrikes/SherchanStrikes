@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherchanstrikes&label=Profile%20views&color=0e75b6&style=flat" alt="sherchanstrikes" /> </p>
 
-- 🔭 I’m currently working on **Rental website.**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://sherchanstrikes.github.io/portfolio/](https://sherchanstrikes.github.io/portfolio/)
 
-- 💬 Ask me about **Reactjs, Html5, CSS.**
+- 💬 Ask me about **Next js**
 
 - 📫 How to reach me **SaphalSherchan10@gmail.com**
 
-- ⚡ Fun fact **I am a very good communicator.**
+- ⚡ Fun fact **I love learning new technologies everyday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
