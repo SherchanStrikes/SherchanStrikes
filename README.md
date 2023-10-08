@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherchanstrikes&label=Profile%20views&color=0e75b6&style=flat" alt="sherchanstrikes" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://saphalsherchan.com.np](https://saphalsherchan.com.np)
 
